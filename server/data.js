@@ -47,6 +47,12 @@ const people=
         "name":"Cobi",
         "mark":68,
         "desc":"wonderfall"
+    },
+    {
+        "id":9,
+        "name":"Yehonatan",
+        "mark":100,
+        "desc":"busy"
     }
 ]
 module.exports={people}
